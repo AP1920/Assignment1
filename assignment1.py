@@ -26,8 +26,8 @@ plt.text(1.5,1,'B-A')
 plt.text(2.5,-2,'C-A')
 
 plt.title('Vector Representation of triangle')
-plt.xlabel('x')
-plt.ylabel('y')
+plt.xlabel('x-axis')
+plt.ylabel('y-axis')
 
 plt.grid()
 plt.plot([3,5],[1,-5],'b--')
